@@ -2038,6 +2038,7 @@ strhandle(void)
 			}
 			return;
 		}
+
 		break;
 	case 'k': /* old title set compatibility */
 		xsettitle(strescseq.args[0]);
