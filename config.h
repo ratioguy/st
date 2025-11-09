@@ -73,7 +73,7 @@ static unsigned int cursorthickness = 1;
  ls
  clear
  */
-static int bellvolume = 1;
+static int bellvolume = 0;
 
 /* default TERM value */
 char *termname = "st-256color";
